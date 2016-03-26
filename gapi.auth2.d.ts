@@ -1,7 +1,7 @@
 // Type definitions for Google Sign-In API
 // Project: https://developers.google.com/identity/sign-in/web/
 // Definitions by: Derek Lawless <https://github.com/flawless2011>
-// Definitions: https://github.com/flawless2011/typings-gapi-auth2
+// Definitions: https://github.com/flawless2011/typings-google-web-signin
 
 declare module gapi.auth2 {
 
