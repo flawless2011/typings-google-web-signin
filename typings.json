@@ -1,5 +1,5 @@
 {
   "name": "google-web-signin",
-  "browser": "gapi.auth2.d.ts",
+  "main": "gapi.auth2.d.ts",
   "ambient": true
 }
