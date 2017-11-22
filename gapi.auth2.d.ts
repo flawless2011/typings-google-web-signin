@@ -34,7 +34,7 @@ declare module gapi.auth2 {
       fetch_basic_profile?: boolean;
       prompt?: boolean;
       scope?: string;
-    }, optionBuilder?: SigninOptionsBuilder): any;
+    }, optionBuilder?: SigninOptionsBuilder): Promise<GoogleUser>;
 
     /**
      * Signs out all accounts from the application.
